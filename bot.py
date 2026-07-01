@@ -16,7 +16,7 @@ META_TOKEN = os.getenv("META_TOKEN")
 PHONE_NUMBER_ID = os.getenv("PHONE_NUMBER_ID")
 OWNER_NUMBER = os.getenv("OWNER_NUMBER")  
 MOMO_NUMBER = os.getenv("MOMO_NUMBER")    
-MOMO_NAME = os.getenv("MOMO_NAME")        ohia
+MOMO_NAME = os.getenv("MOMO_NAME")        
 API_VERSION = "v19.0"
 
 # --- FRANK FRIED KITCHEN MENU ---
